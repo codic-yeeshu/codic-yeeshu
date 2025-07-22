@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm A M YEESHU</h1>
-<h3 align="center">An aspiring developer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.ismellcreativity.com/images/wearehere.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codic-yeeshu&label=Profile%20views&color=0e75b6&style=flat" alt="codic-yeeshu" /> </p>
