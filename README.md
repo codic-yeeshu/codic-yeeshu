@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codic-yeeshu&label=Profile%20views&color=0e75b6&style=flat" alt="codic-yeeshu" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Full Stack
 
 - 📫 How to reach me **workwithyeeshu@gmail.com**
 
